@@ -2,7 +2,7 @@
 Keeling_Predict is an R based Keeling Curve time series extrapolation.
 
 In order to run Keeling_Predict simply place the data (co2.csv) in the same folder as the R scipt (main.R).
-Make sure your R session has the zoo, imputeTS, and Forecast and forecast CRAN packages installed.
+Make sure your R session has the zoo, imputeTS, and forecast CRAN packages installed.
 
 What is the Keeling Curve?
 
