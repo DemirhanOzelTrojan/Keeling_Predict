@@ -1,5 +1,8 @@
-Keeling_Predict:
-An R based Keeling Curve time series extrapolation.
+
+Keeling_Predict is an R based Keeling Curve time series extrapolation.
+
+In order to run Keeling_Predict simply place the data (co2.csv) in the same folder as the R scipt (main.R).
+Make sure your R session has the zoo, imputeTS, and Forecast and forecast CRAN packages installed.
 
 What is the Keeling Curve?
 
@@ -10,6 +13,8 @@ According to the Wikipedia definition:
 The Keeling Curve has served, and will continue to serve, as a very useful tool for observing the impact of rising carbon dioxide levels in our atmosphere. With this tool scientists can attempt to correlate the known data to past and current environmental situations such as Global Warming.
 
 By using simple data science principles, in this case a time series, Keeling_Predict forecasts how much carbon dioxide will be in earth's atmosphere by a given date, as well as the rate at which c02 levels will increase. This data can be very useful to environmental scientists who are attempting to forsee the future state of earth's environment.
+
+
 
 Visit this link to learn more about the Keeling Curve: 
 
