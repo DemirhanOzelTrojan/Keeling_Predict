@@ -18,7 +18,7 @@ By using simple data science principles, in this case a time series, Keeling_Pre
 
 ##Original Data: 
 
-![Alt text](http://imgur.com/undefined "")
+![Alt text](http://i.imgur.com/aWWWi9z.png "")
 
 ##Result
 ![Alt text](https://raw.githubusercontent.com/DemirhanOzelTrojan/Keeling_Predict/master/Results/Test1.png "")
